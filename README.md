@@ -1,2 +1,2 @@
-# 15-112_term_proj_0.5
+# 15-112_term_proj_1.0
 Escape the maze!
