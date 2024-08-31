@@ -1,2 +1,2 @@
-# 15-112_term_proj_1.0
-Escape the maze!
+# Escape the maze type game 
+Allows for the user to either escape a randomly generated maze or one of their own creation
